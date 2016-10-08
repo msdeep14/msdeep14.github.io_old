@@ -9,18 +9,16 @@ port: 3000
 safe: true
 
 
-url: http://tapasweni-pathak.github.io/
-baseurl: http://tapasweni-pathak.github.io/
-title: Tapasweni Pathak
-author: Tapasweni Pathak
-description: Homepage of Tapasweni Pathak.
-avatar: profile.png
-email: tapaswenipathak@gmail.com
-github: tapasweni-pathak # username
-twitter: TapasweniPathak
-linkedin: tapaswenipathak
-medium: TapasweniPathak
-youtube: tapasweni
+url: http://msdeep14.github.io/
+baseurl: http://msdeep14.github.io/
+title: Mandeep Singh
+author: Mandeep Singh
+description: Homepage of Mandeep Singh.
+avatar: profile.jpg
+email: mandeepsingh_14070@aitpune.edu.in
+github: msdeep14 # username
+twitter: msdeep14
+linkedin: mandeep-singh-2476b6a5
 
 # needed for travis-ci build
 exclude: [vendor]
