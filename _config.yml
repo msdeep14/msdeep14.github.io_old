@@ -9,8 +9,8 @@ port: 3000
 safe: true
 
 
-url: http://msdeep14.github.io/
-baseurl: http://msdeep14.github.io/
+url: https://msdeep14.github.io/
+baseurl: https://msdeep14.github.io/
 title: Mandeep Singh
 author: Mandeep Singh
 description: Homepage of Mandeep Singh.
