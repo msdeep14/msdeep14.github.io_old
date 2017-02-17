@@ -18,7 +18,7 @@ avatar: profile.jpg
 email: mandeepsingh_14070@aitpune.edu.in
 github: msdeep14 # username
 twitter: msdeep14
-linkedin: mandeep-singh-2476b6a5
+linkedin: msdeep14
 
 # needed for travis-ci build
 exclude: [vendor]
